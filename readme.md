@@ -1,6 +1,8 @@
 # Tarkov Captcha Solver
 Wanna beat the tarkov tarkov captcha and you don't know how? Well.. I did it for you. 
 
+![](./docs/finished-1.png)
+
 ## Requirements
 - Python3
 - pytesseract
